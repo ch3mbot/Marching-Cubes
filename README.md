@@ -1,6 +1,6 @@
 # Marching-Cubes
 
-An implementation of marching cubes in c# for the Unity game engine.
+An implementation of the marching cubes algorithm in c# for the Unity game engine.
 To use this project the assets need to be copied into a Unity project.
 Download Unity from: https://unity3d.com/
 
